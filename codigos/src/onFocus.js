@@ -10,7 +10,8 @@ export default function onFocus() {
             onBlur={(e) => {
             console.log('Exibirá o conteúdo quando sair do foco');
             }}
-        placeholder="onBlur é acionado quando você clica nesta entrada e clica fora dela."
+        placeholder="onBlur é acionado quando você clica nesta entrada e clica 
+        fora dela."
       />
     )
 }
